@@ -95,7 +95,7 @@ export default class Header extends React.Component {
                   uprooting, garden refuse removal etc.
                 </p>
                 <hr className="divider my-4" />
-                <h3>Call ​078 960 7579</h3>
+                <h3>Call ​060 388 3801</h3>
                 <a
                   className="btn btn-primary btn-xl js-scroll-trigger"
                   href="#contact"

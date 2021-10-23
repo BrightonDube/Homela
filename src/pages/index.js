@@ -261,7 +261,7 @@ export default class IndexPage extends React.Component {
                 <p className="text-muted mb-5">
                   Ready to start your next project with us? Give us a call,{" "}
                   <a
-                    href="https://wa.me/+27789607579"
+                    href="https://wa.me/+27603883801"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -276,7 +276,7 @@ export default class IndexPage extends React.Component {
               <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i className="fas fa-phone fa-3x mb-3 text-muted"></i>
                 <div>
-                  <a href="tel:078 960 7579">078 960 7579</a>
+                  <a href="tel:060 388 3801">060 388 3801</a>
                 </div>
               </div>
               <div className="col-lg-4 mr-auto text-center">
