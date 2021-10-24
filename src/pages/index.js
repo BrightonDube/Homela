@@ -283,7 +283,7 @@ export default class IndexPage extends React.Component {
                 <i className="fas fa-envelope fa-3x mb-3 text-muted"></i>
                 <a
                   className="d-block"
-                  href="mailto:info@homelatreefelling.co.za"
+                  href="mailto:info@homelatreefelling.co.za?cc=homelatreefelling@gmail.com"
                 >
                   info@homelatreefelling.co.za
                 </a>
